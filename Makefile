@@ -1,4 +1,4 @@
-# minimalist makefile
+# minimalist makefile123123123123123
 ######################
 # To add a competitive technique, simply add your code in the src subdirectory (follow the README.md instructions) and
 # add your executable file name to the EXECUTABLES variable below.
